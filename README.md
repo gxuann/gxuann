@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jethro
+## Hi 👋, I'm Dustin X
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <p>I am not a computer major, but I have a heart that loves development. I have graduated from college and like to toss with all kinds of new things. Experience in front-end development and WeChat MiniProgram development</p>
